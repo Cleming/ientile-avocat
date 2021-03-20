@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Domaines d’expertise"
+content: |
+  <b>Conseil et contentieux en Droit des affaires</b> 
+  <ul>
+    <li> Droit des sociétés (créations et transformations de société, PV d’assemblées générales, modifications statutaires, cession d’actifs) </li>
+    <li> Contrat commercial (baux commerciaux, CGV, etc) </li>
+    <li> Responsabilité contractuelle / Délictuelle </li>
+    <li> Concurrence déloyale </li>
+    <li> Propriété intellectuelle </li>
+    <li> Précontentieux /Contentieux (courriers d’avocat, mises en demeure, injonctions de payer, </li>
+    <li> Droit international des affaires </li>
+  </ul>
+button: 
+  label: "Learn More"
+  link: "#Honoraires"
+image: "images/pic2.png"

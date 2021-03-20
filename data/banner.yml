@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Evanna Ientile"
+subtitle: Avocat généraliste en droit des affaires à Lyon
+content : |
+ Là il faudrait trouver un blabla un peu court. Genre une description brève de qui tu est et ce que tu fais. Genre « créer une relation de confiance » blablabla
+
+
+button:
+  label : "En savoir plus"
+  link : "#first"
+image : "images/Evanna_Ientile_Avocat.jpg"
+

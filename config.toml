@@ -1,0 +1,28 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Ientile Avocat"
+theme = "hugo-story"
+baseURL = "/"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/LGoV2e74RQK1ReXkOh6yKg.jpeg"
+  favicon = true
+
+[Params.social]
+  linkedin = "https://www.linkedin.com/in/evanna-ientile-a57b1b97/"
