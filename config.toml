@@ -3,7 +3,7 @@
 ## -----------------------------------------------
 
 title = "Ientile Avocat"
-theme = "hugo-story"
+# theme = "hugo-story"
 baseURL = "/"
 
 
@@ -26,3 +26,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params.social]
   linkedin = "https://www.linkedin.com/in/evanna-ientile-a57b1b97/"
+
+# Pour que le theme marche
+[module]
+  [[module.imports]]
+    path = "github.com/caressofsteel/hugo-story"
+
+###########
+# Barriere pour pas que le theme s'en aille vu qu'il marche
