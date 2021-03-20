@@ -1,12 +1,22 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Evanna Ientile"
-subtitle: Avocat généraliste en droit des affaires à Lyon
+subtitle: Avocate généraliste en droit des affaires à Lyon
 content : |
+
+ Avocate inscrite au Barreau de Lyon, j'interviens en droit civil et des affaires.
+ <br />
+ J'assiste les personnes physiques et les entreprises dans la défense de leurs intérêts,
+ en conseil et en contentieux dans tous les aspects liés à la vie de l'enterprise.
+
+ <br />
+ <br />
+ Titulaire du Certificat d'aptitude à la profession d'avocat,
+ je suis diplômée de l'Université Jean Moulin Lyon 3 d'un Master 1 en droit de l'entreprise et d'un Master 2 en droit international des affaires,
+ complété par un Diplôme Universitaire de droit anglais
+
  <div id="tsparticles"></div>
 
- Là il faudrait trouver un blabla un peu court. Genre une description brève de qui tu est et ce que tu fais. Genre « créer une relation de confiance » blablabla
-  {{- define "page-script" -}}
  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/tsparticles@1.22.1"></script>
  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/tsparticles-shape-confetti@1.7.1"></script>
  <script type="text/javascript">
@@ -162,10 +172,5 @@ content : |
 
  </script>
 
-  {{- end -}}
-
-button:
-  label : "En savoir plus"
-  link : "#first"
 image: "images/Evanna-Ientile.jpg"
 
