@@ -8,7 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-18.04
-    cname: www.ientile-avocat.fr
     steps:
       - uses: actions/checkout@v2
         with:
@@ -27,6 +26,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
+          cname: www.ientile-avocat.fr
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
