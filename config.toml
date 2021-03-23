@@ -11,7 +11,7 @@ baseURL = "/"
 ## Hugo Built-in Features
 ## -----------------------------------------------
 
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 # googleAnalytics = "your-google-analytics-id"
 
 
