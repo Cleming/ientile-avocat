@@ -14,7 +14,6 @@ baseURL = "https://www.ientile-avocat.fr/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 # googleAnalytics = "your-google-analytics-id"
 
-
 ## -----------------------------------------------
 ## Site Parameters
 ## -----------------------------------------------
@@ -23,9 +22,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
   logo = "images/LGoV2e74RQK1ReXkOh6yKg.jpeg"
   favicon = true
+  AuthorName = "Evanna Ientile"
 
 [Params.social]
   linkedin = "https://www.linkedin.com/in/evanna-ientile-a57b1b97/"
+  email = "evanna@ientile-avocat.fr"
 
 # Pour que le theme marche
 [module]
