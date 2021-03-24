@@ -1,7 +1,8 @@
 ---
-title: "Termes et conditions"
+title: "Politique de confidentialité"
 layout: staticpage
 ---
+
 La présente politique de confidentialité définit et vous informe de la manière dont Evanna IENTILE utilise et protège les informations que vous lui transmettez, le cas échéant, lorsque vous utilisez le présent site.
 
 Veuillez noter que cette politique de confidentialité est susceptible d’être modifiée ou complétée à tout moment par l'éditeur, notamment en vue de se conformer à toute évolution législative, règlementaire, jurisprudentielle ou technologique. Dans un tel cas, la date de sa mise à jour sera clairement identifiée en tête de la présente politique. Ces modifications engagent l’Utilisateur dès leur mise en ligne. Il convient par conséquent que l’Utilisateur consulte régulièrement la présente politique de confidentialité et d’utilisation des cookies afin de prendre connaissance de ses éventuelles modifications.
@@ -15,7 +16,7 @@ Conformément au Règlement Général sur la Protection des Données (General Da
 1. Identité du responsable du traitement
    Le responsable du traitement est Evanna IENTILE, avocate au Barreau de Lyon, exerçant comme entrepreneur individuel immatriculé à l'INSEE sous le numéro 851 894 154.
 
-Tél. : +33621777773
+**Tél. : +33621777773**
 
 2. Finalités du traitement
 
