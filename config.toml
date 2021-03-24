@@ -4,7 +4,7 @@
 
 title = "Ientile Avocat"
 # theme = "hugo-story"
-baseURL = "/"
+baseURL = "https://www.ientile-avocat.fr/"
 
 
 ## -----------------------------------------------
