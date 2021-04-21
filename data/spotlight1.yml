@@ -4,13 +4,12 @@ id: "first"
 title : "Domaines d’expertise"
 content: |
   <b>Conseil et contentieux en Droit des affaires</b> 
-  <ul>
-    <li> Droit des sociétés </li>
-    <li> Contrat commercial (baux commerciaux, CGV, etc) </li>
-    <li> Responsabilité contractuelle / délictuelle </li>
-    <li> Concurrence déloyale </li>
-    <li> Précontentieux (courriers d’avocat, mises en demeure, injonctions de payer) </li>
-    <li> Contentieux </li>
-    <li> Droit international des affaires </li>
-  </ul>
+  
+    Droit des sociétés</br>
+    Contrat commercial (baux commerciaux, CGV, etc) </br>
+    Responsabilité contractuelle / délictuelle </br>
+    Concurrence déloyale </br>
+    Précontentieux (courriers d’avocat, mises en demeure, injonctions de payer) </br>
+    Contentieux </br>
+    Droit international des affaires </br>
 image: "images/Illustration-Evanna-Ientile.svg"
